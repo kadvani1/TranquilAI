@@ -12,7 +12,7 @@ This README provides an overview of the TranquilAI project and can be added to t
 
 ![PeLLM Logo](https://media.licdn.com/dms/image/C560BAQFk_yGavzSPgw/company-logo_200_200/0/1617661228001/hume_ai_logo?e=2147483647&v=beta&t=qczNgjXGUOfy5BrkX9holZ2XXeU4aNzikHVJHhuX7_c)
 ![PeLLM Logo](https://cdn.mos.cms.futurecdn.net/aSiEWj4bvEGBvUMs9tyXyW.png)
-![PeLLM Logo](https://ml.globenewswire.com/Resource/Download/3034f6cd-48c3-4b5e-bd7f-242dbaecaab4?size=2](https://www.thesoftwarereport.com/wp-content/uploads/2023/09/Hugging-Face2.png)
+![PeLLM Logo](https://www.thesoftwarereport.com/wp-content/uploads/2023/09/Hugging-Face2.png)
 
 # User Guide
 To run, first add your Hume API key to your environment and install the requirements. To run the streamlit demo run: streamlit run st_pellm_demo.py
