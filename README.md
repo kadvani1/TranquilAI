@@ -1,4 +1,4 @@
-# TranquilAI 🧘‍♂️ - Free Meditation AI Agent - Your AI-Driven Sanctuary for Customized Relaxation and Mindfulness – Elevate Your Meditation Journey with Personalized Guided Sessions and Curated Soundscapes
+# TranquilAI - free meditation AI Agent - Relax, Recharge, and Realign: Your Personalized Meditation Experience, Powered by AI and Music
 
 # What is this repo?
 Features:
