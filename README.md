@@ -1,4 +1,4 @@
-# TranquilAI 🧘‍♂️ - Your AI-Driven Sanctuary for Customized Relaxation and Mindfulness – Elevate Your Meditation Journey with Personalized Guided Sessions and Curated Soundscapes
+# TranquilAI 🧘‍♂️ - Free Meditation AI Agent - Your AI-Driven Sanctuary for Customized Relaxation and Mindfulness – Elevate Your Meditation Journey with Personalized Guided Sessions and Curated Soundscapes
 
 # What is this repo?
 Features:
