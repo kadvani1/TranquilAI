@@ -10,6 +10,7 @@ This README provides an overview of the TranquilAI project and can be added to t
 ![PeLLM Logo](https://i.ibb.co/pQXbmp4/Screenshot-2023-10-21-at-15-36-09.png)
 
 # Technology used
+![PeLLM Logo](https://i.ibb.co/McMdw5T/Screenshot-2023-10-21-at-20-05-12.png)
 ![PeLLM Logo](https://media.licdn.com/dms/image/C560BAQFk_yGavzSPgw/company-logo_200_200/0/1617661228001/hume_ai_logo?e=2147483647&v=beta&t=qczNgjXGUOfy5BrkX9holZ2XXeU4aNzikHVJHhuX7_c)
 ![PeLLM Logo](https://cdn.mos.cms.futurecdn.net/aSiEWj4bvEGBvUMs9tyXyW.png)
 ![PeLLM Logo](https://www.thesoftwarereport.com/wp-content/uploads/2023/09/Hugging-Face2.png)
